@@ -1,13 +1,13 @@
 
 
-# PROJECT TITLE: asdf
+# PROJECT TITLE: Weather App
 
-* [Link to GitHub](https://github.com/asdf)
-* [Email]: asdf
+* [Link to GitHub](https://github.com/nchow18)
+* [Email]: test@gmail.com
 
 ## DESCRIPTION:
 
-asdf
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ## Table of Contents (Optional)
 
@@ -21,15 +21,15 @@ asdf
 
 ## Installation
 
-asdf
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ## Usage
 
-asdf
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ## Credits
 
-asdf
+nchow18
 
 ## License
 
@@ -37,18 +37,24 @@ Apache License ,MIT License ,GPL License
 
 ## Badges
 
-* [Badge](https://img.shields.io/badge/asdf-asdf-yellow.svg)
+* [Badge](https://img.shields.io/badge/LEGENDARY-AWESOME-yellow.svg)
 
 ## Contributing
 
-asdf
+money
 
 ## Tests
 
-asdf
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ## Questions
 
-this is a test
+
+        
+question 1,
+question 2,
+question 3,
+question 4
+    
 
     

@@ -1,5 +1,17 @@
 
 
+const generateQuestions = questionArr => {
+
+    return`
+        ${questionArr
+            .map(({question}) => {
+return `
+${question}`
+            }
+            )}
+    `
+}
+
 module.exports = readmeData => {
 
     const { project, description, installation, usageInfo, testInfo, label, color, message, contribute, license, github, email, userData } = readmeData;
@@ -25,6 +37,7 @@ module.exports = readmeData => {
     `)
 
     return `
+* ![Badge](https://img.shields.io/badge/${label}-${message}-${color}.svg)
 
 # PROJECT TITLE: ${project}
 
@@ -75,7 +88,7 @@ ${testInfo}
 
 ## Questions
 
-${userData[0].question}
+${generateQuestions(userData)}
 
     `;
 };
