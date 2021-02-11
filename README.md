@@ -46,7 +46,7 @@ anyone can contribute and make the code more efficient to help the community
 
 ## Tests
 
-test instructions ishown in the provided video
+test instructions is shown in the provided video
 
 ![Alt Test](https://raw.githubusercontent.com/nchow18/readme-pro/main/media/samplegif.gif)
 
