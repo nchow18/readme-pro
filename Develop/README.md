@@ -1,14 +1,14 @@
 
-![Badge](https://img.shields.io/badge/great-awesome-yellow.svg)
+![Badge](https://img.shields.io/badge/LEGENDARY-AWESOME-blue.svg)
 
-# PROJECT TITLE: Readme Generator
+# PROJECT TITLE: ReadMe Generator
 
 * [Link to GitHub](https://github.com/nchow18)
-* [Email]: (mailto:gmail@gmail.com)
+* [Email]: (mailto:emailme@nathanchow.ca)
 
 ## DESCRIPTION:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This project is to help users generate a quick, clean and easy readme.me file with the use of commandline and questions
 
 ## Table of Contents (Optional)
 
@@ -22,11 +22,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Installation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+to install, please download all files to your local machine and run the commandline prompt and follow the series of questions to complete the readme file
 
 ## Usage
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+the usage is for anyone, please see example videow below on what to do!
 
 ## Credits
 
@@ -38,24 +38,20 @@ Apache License ,MIT License ,GPL License
 
 ## Badges
 
-* ![Badge](https://img.shields.io/badge/great-awesome-yellow.svg)
+* ![Badge](https://img.shields.io/badge/LEGENDARY-AWESOME-blue.svg)
 
 ## Contributing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+anyone can contribute and make the code more efficient to help the community
 
 ## Tests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+test instructions ishown in the provided video
 
 ## Questions
 
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-,
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-,
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+* Where did I learn how to code?
 
     
 
