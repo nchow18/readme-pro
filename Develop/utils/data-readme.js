@@ -2,7 +2,10 @@
 
 module.exports = readmeData => {
 
-    const { project, description, installation, usageInfo, testInfo, label, color, message, contribute, license, github, email, question } = readmeData;
+    const { project, description, installation, usageInfo, testInfo, label, color, message, contribute, license, github, email, userData } = readmeData;
+
+    console.log('test');
+    console.log(userData[0].question);
 
     // project
     // description
@@ -72,7 +75,7 @@ ${testInfo}
 
 ## Questions
 
-${question}
+${userData[0].question}
 
     `;
 };
