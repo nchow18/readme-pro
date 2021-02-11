@@ -1,14 +1,12 @@
 
 
 const generateQuestions = questionArr => {
-
-    return`
-        ${questionArr
-            .map(({question}) => {
+return`${questionArr.map(({question}) => {
 return `
-${question}`
-            }
-            )}
+* ${question}
+`
+}
+)}
     `
 }
 
@@ -37,12 +35,12 @@ module.exports = readmeData => {
     `)
 
     return `
-* ![Badge](https://img.shields.io/badge/${label}-${message}-${color}.svg)
+![Badge](https://img.shields.io/badge/${label}-${message}-${color}.svg)
 
 # PROJECT TITLE: ${project}
 
 * [Link to GitHub](https://github.com/${github})
-* [Email]: ${email}
+* [Email]: (mailto:${email})
 
 ## DESCRIPTION:
 
@@ -76,7 +74,7 @@ ${license}
 
 ## Badges
 
-* [Badge](https://img.shields.io/badge/${label}-${message}-${color}.svg)
+* ![Badge](https://img.shields.io/badge/${label}-${message}-${color}.svg)
 
 ## Contributing
 

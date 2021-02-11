@@ -1,13 +1,14 @@
 
+![Badge](https://img.shields.io/badge/asdf-asdf-yellow.svg)
 
-# PROJECT TITLE: Weather App
+# PROJECT TITLE: asdf
 
-* [Link to GitHub](https://github.com/nchow18)
-* [Email]: test@gmail.com
+* [Link to GitHub](https://github.com/asdf)
+* [Email]: (mailto:asdf)
 
 ## DESCRIPTION:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+asdf
 
 ## Table of Contents (Optional)
 
@@ -21,15 +22,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Installation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+asdf
 
 ## Usage
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+asdf
 
 ## Credits
 
-nchow18
+asdf
 
 ## License
 
@@ -37,24 +38,25 @@ Apache License ,MIT License ,GPL License
 
 ## Badges
 
-* [Badge](https://img.shields.io/badge/LEGENDARY-AWESOME-yellow.svg)
+* ![Badge](https://img.shields.io/badge/asdf-asdf-yellow.svg)
 
 ## Contributing
 
-money
+fasdf
 
 ## Tests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+asd
 
 ## Questions
 
 
-        
-question 1,
-question 2,
-question 3,
-question 4
+* 1
+,
+* two
+,
+* three
+
     
 
     
