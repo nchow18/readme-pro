@@ -48,6 +48,9 @@ anyone can contribute and make the code more efficient to help the community
 
 test instructions ishown in the provided video
 
+![Sample](https://raw.githubusercontent.com/nchow18/readme-pro/main/media/samplegif.gif)
+<img src="https://raw.githubusercontent.com/nchow18/readme-pro/main/media/samplegif.gif" width="100" height="100"/>
+
 ## Questions
 
 
