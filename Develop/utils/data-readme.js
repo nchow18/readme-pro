@@ -34,13 +34,13 @@ ${description}
 
 ## Table of Contents (Optional)
 
-* [Installation](#${installation})
-* [Usage](#${usageInfo})
-* [License](#${license})
-* [Badges](#)
-* [Contributing](#${contribute})
-* [Tests](#)
-* [Questions](#${question})
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Badges](#badges)
+* [Contributing](#contribute)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Installation
 

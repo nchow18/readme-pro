@@ -2,7 +2,7 @@
 
 # PROJECT TITLE: asdf
 
-* [Link to GitHub](https://github.com/nchow18)
+* [Link to GitHub](https://github.com/asdf)
 * [Email]: asdf
 
 ## DESCRIPTION:
@@ -11,13 +11,13 @@ asdf
 
 ## Table of Contents (Optional)
 
-* [Installation](#asdf)
-* [Usage](#asd)
-* [License](#Apache License ,MIT License ,GPL License )
-* [Badges](#)
-* [Contributing](#asdf)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Badges](#badges)
+* [Contributing](#contribute)
 * [Tests](#)
-* [Questions](#undefined)
+* [Questions](#questions)
 
 ## Installation
 
@@ -25,11 +25,11 @@ asdf
 
 ## Usage
 
-asd
+asdf
 
 ## Credits
 
-nchow18
+asdf
 
 ## License
 
@@ -37,7 +37,7 @@ Apache License ,MIT License ,GPL License
 
 ## Badges
 
-* [Badge](https://img.shields.io/badge/<test>-<test>-<yellow>)
+* [Badge](https://img.shields.io/badge/asdf-asdf-yellow.svg)
 
 ## Contributing
 
@@ -45,7 +45,7 @@ asdf
 
 ## Tests
 
-fasdf
+asdf
 
 ## Questions
 
