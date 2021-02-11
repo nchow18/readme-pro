@@ -48,7 +48,7 @@ anyone can contribute and make the code more efficient to help the community
 
 test instructions ishown in the provided video
 
-![Alt Test](https://github.com/nchow18/readme-pro/tree/main/media/samplegif.gif)
+![Alt Test](https://raw.githubusercontent.com/nchow18/readme-pro/main/media/samplegif.gif)
 
 ## Questions
 
