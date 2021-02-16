@@ -120,32 +120,10 @@ const init = () => {
         },
         // COLOR FOR BADGE
         {
-            type: 'input',
-            name: 'color',
-            message: 'Please choose Badge Colour: brightgreen, green, yellowgreen, yellow, orange, red, blue, lightgrey, success, important, critical, informational, inactive, blueviolet, ff69b4, 9cf',
-            validate: colorInfo => {
-                if (colorInfo === 'brightgreen' || 
-                    colorInfo === 'green' || 
-                    colorInfo === 'yellowgreen' || 
-                    colorInfo === 'yellow' ||
-                    colorInfo === 'orange' ||
-                    colorInfo === 'red' ||
-                    colorInfo === 'blue' ||
-                    colorInfo === 'lightgrey' ||
-                    colorInfo === 'success' ||
-                    colorInfo === 'important' ||
-                    colorInfo === 'critical' ||
-                    colorInfo === 'informational' ||
-                    colorInfo === 'inactive' ||
-                    colorInfo === 'blueviolet' ||
-                    colorInfo === 'ff69b4' ||
-                    colorInfo === '9cf') {
-                    return true;
-                } else {
-                    console.log('Please enter one of the provided color options!');
-                    return false;
-                }
-            }
+            type: 'list',
+            name: 'action',
+            message: 'Please choose Badge Colour',
+            choices: ['brightgreen', 'green', 'yellowgreen', 'yellow', 'orange', 'red', 'blue', 'lightgrey', 'success', 'important', 'critical', 'informational', 'inactive', 'blueviolet', 'ff69b4', '9cf'],
         },
         // MESSAGE for badge
         {

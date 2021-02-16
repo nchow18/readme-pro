@@ -12,7 +12,7 @@ return `
 
 module.exports = readmeData => {
 
-    const { project, description, installation, usageInfo, testInfo, label, color, message, contribute, license, github, email, userData } = readmeData;
+    const { project, description, installation, usageInfo, testInfo, label, action, message, contribute, license, github, email, userData } = readmeData;
 
     console.log('test');
     console.log(userData[0].question);
@@ -35,7 +35,7 @@ module.exports = readmeData => {
     `)
 
     return `
-![Badge](https://img.shields.io/badge/${label}-${message}-${color}.svg)
+![Badge](https://img.shields.io/badge/${label}-${message}-${action}.svg)
 
 # PROJECT TITLE: ${project}
 
@@ -74,7 +74,7 @@ ${license}
 
 ## Badges
 
-* ![Badge](https://img.shields.io/badge/${label}-${message}-${color}.svg)
+* ![Badge](https://img.shields.io/badge/${label}-${message}-${action}.svg)
 
 ## Contributing
 
